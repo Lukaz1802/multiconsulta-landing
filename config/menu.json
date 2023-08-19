@@ -1,0 +1,61 @@
+{
+  "main": [
+    {
+      "name": "Inicio",
+      "url": "/"
+    },
+    {
+      "name": "Contacto",
+      "url": "/contact"
+    },
+    {
+      "name": "FAQ",
+      "url": "/faq"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+        {
+          "text": "Contacto",
+          "url": "/contact"
+        },
+        {
+          "text": "Inicio",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Product",
+      "menu": [
+        {
+          "text": "",
+          "url": "#"
+        },
+        {
+          "text": "Platform",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        {
+          "text": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "#"
+        },
+        {
+          "text": "Terms & Conditions",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}
